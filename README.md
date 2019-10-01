@@ -1,2 +1,4 @@
 # ComponentDemo
 组件化的学习Demo
+
+从3.4版本的gradle开始，compile已经被api与implementation取代. api与implementation简单来说就是api是对外的，就应该公开；而implementation是内部的实现，不应该公开出来。
